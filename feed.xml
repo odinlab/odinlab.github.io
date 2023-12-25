@@ -3,52 +3,72 @@
     <title>odinlab</title>
     <link href="https://odinlab.co/feed.xml" rel="self" />
     <link href="https://odinlab.co" />
-    <updated>2023-12-25T17:44:26+07:00</updated>
+    <updated>2023-12-25T17:51:27+07:00</updated>
     <author>
         <name>kamonwat</name>
     </author>
     <id>https://odinlab.co</id>
 
     <entry>
-        <title>Artwork &amp; Banner</title>
+        <title>สินค้าขนาดเล็ก</title>
+        <author>
+            <name>kamonwat</name>
+        </author>
+        <link href="https://odinlab.co/sinkhaakhnaadelk/index.html"/>
+        <id>https://odinlab.co/sinkhaakhnaadelk/index.html</id>
+
+        <updated>2023-12-25T17:51:27+07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>temp</title>
+        <author>
+            <name>kamonwat</name>
+        </author>
+        <link href="https://odinlab.co/artwork-and-banner-2/index.html"/>
+        <id>https://odinlab.co/artwork-and-banner-2/index.html</id>
+
+        <updated>2023-12-25T17:51:22+07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>temp</title>
         <author>
             <name>kamonwat</name>
         </author>
         <link href="https://odinlab.co/artwork-and-banner/index.html"/>
         <id>https://odinlab.co/artwork-and-banner/index.html</id>
-        <media:content url="https://odinlab.co/media/posts/3/11.png" medium="image" />
 
-        <updated>2023-12-25T17:40:26+07:00</updated>
+        <updated>2023-12-25T17:51:16+07:00</updated>
             <summary></summary>
         <content></content>
     </entry>
     <entry>
-        <title>สินค้าขนาดใหญ่</title>
+        <title>temp</title>
         <author>
             <name>kamonwat</name>
         </author>
         <link href="https://odinlab.co/sinkhaakhnaadaihy/index.html"/>
         <id>https://odinlab.co/sinkhaakhnaadaihy/index.html</id>
-        <media:content url="https://odinlab.co/media/posts/2/9.png" medium="image" />
 
-        <updated>2023-12-25T17:39:04+07:00</updated>
+        <updated>2023-12-25T17:51:05+07:00</updated>
             <summary></summary>
         <content></content>
     </entry>
     <entry>
-        <title>สินค้าขนาดเล็ก</title>
+        <title>Promotion</title>
         <author>
             <name>kamonwat</name>
         </author>
         <link href="https://odinlab.co/home-page/index.html"/>
         <id>https://odinlab.co/home-page/index.html</id>
-        <media:content url="https://odinlab.co/media/posts/1/10.png" medium="image" />
 
-        <updated>2023-12-25T17:44:26+07:00</updated>
+        <updated>2023-12-25T17:49:57+07:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://odinlab.co/media/posts/1/10.png" class="type:primaryImage" alt="" /></p>
                 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
 <figure class="gallery__item"><a href="https://odinlab.co/media/posts/1/gallery/10.png" data-size="1080x1080"><img loading="lazy" src="https://odinlab.co/media/posts/1/gallery/10-thumbnail.png" alt="" width="720" height="720"></a></figure>
 <figure class="gallery__item"><a href="https://odinlab.co/media/posts/1/gallery/9.png" data-size="1080x1080"><img loading="lazy" src="https://odinlab.co/media/posts/1/gallery/9-thumbnail.png" alt="" width="720" height="720"></a></figure>
