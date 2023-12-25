@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>odinlab</title>
+    <link href="https://odinlab.co/feed.xml" rel="self" />
+    <link href="https://odinlab.co" />
+    <updated>2023-12-25T16:44:21+07:00</updated>
+    <author>
+        <name>kamonwat</name>
+    </author>
+    <id>https://odinlab.co</id>
+
+    <entry>
+        <title>Home Page</title>
+        <author>
+            <name>kamonwat</name>
+        </author>
+        <link href="https://odinlab.co/home-page/index.html"/>
+        <id>https://odinlab.co/home-page/index.html</id>
+
+        <updated>2023-12-25T16:44:21+07:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://odinlab.co/media/posts/1/CAF9E7CD-864C-47DF-8F94-D6A37C38BFAF.jpg" alt="" width="2048" height="2048" sizes="100vw" srcset="https://odinlab.co/media/posts/1/responsive/CAF9E7CD-864C-47DF-8F94-D6A37C38BFAF-xs.jpg 300w ,https://odinlab.co/media/posts/1/responsive/CAF9E7CD-864C-47DF-8F94-D6A37C38BFAF-sm.jpg 480w ,https://odinlab.co/media/posts/1/responsive/CAF9E7CD-864C-47DF-8F94-D6A37C38BFAF-md.jpg 768w ,https://odinlab.co/media/posts/1/responsive/CAF9E7CD-864C-47DF-8F94-D6A37C38BFAF-lg.jpg 1024w ,https://odinlab.co/media/posts/1/responsive/CAF9E7CD-864C-47DF-8F94-D6A37C38BFAF-xl.jpg 1360w ,https://odinlab.co/media/posts/1/responsive/CAF9E7CD-864C-47DF-8F94-D6A37C38BFAF-2xl.jpg 1600w"></figure>
+            ]]>
+        </content>
+    </entry>
+</feed>
